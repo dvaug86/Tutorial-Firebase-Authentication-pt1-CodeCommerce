@@ -4,4 +4,4 @@ I am following along with this tutorial to see how that is done to help with my 
 The tutorial is found here:
 https://www.youtube.com/watch?v=x62aBvnRCKw&t=2700s
 
-I had to take a break from working on this for the holidays and studing to get into a program. I am back but need to refresh on where I left off.
+I had to take a break from working on this for the holidays and studing to get into a program. I am back but need to refresh on where I left off. Finished reviewing today. 
